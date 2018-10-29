@@ -1,6 +1,4 @@
-## Arti Annaswamy's Personal Website 
-
-See it here - [artiannaswamy.com](http://artiannaswamy.com)
+## Sunghyon Kyeong's Personal Website 
 
 Based on the [Indigo Minimalist Jekyll Template](https://github.com/sergiokopplin/indigo) by Sérgio Kopplin @sergiokopplin - [Theme Demo](http://sergiokopplin.github.io/indigo/)
 
