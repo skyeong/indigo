@@ -8,7 +8,7 @@ description: A blog about Neuroscience and Datascience
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: 'assets/images/skyeong_crop.png'
+picture: 'assets/images/skyeong_crop.jpg'
 
 url: https://skyeong.github.io
 # your url: http://USERNAME.github.io
@@ -42,7 +42,7 @@ authors:
         name: Sunghyon Kyeong
         bio: Neuroscience, Complex Network, Topological Data Analysis.
         external-image: false
-        picture: assets/images/skyeong_crop.png
+        picture: assets/images/skyeong_crop.jpg
         twitter: paul_kyeong
 
 
