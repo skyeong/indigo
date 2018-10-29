@@ -1,5 +1,5 @@
 # main text of home
-name: Niveditha Ram
+name: Sunghyon Kyeong
 bio: 'Physics, Teaching, Engineering.'
 
 # twitter summary info
@@ -10,7 +10,7 @@ description: A blog about Physics and teaching science
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-# url: http://artiannaswamy.com
+url: https://skyeong.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -35,7 +35,7 @@ twitter: NivedithaRam
 # spotify: myspotify
 github: NivedithaRam
 # medium: medium
-email: niveditha.ramasubramanian@stonybrook.edu
+email: skyeong@yuhs.ac
 
 authors:
     NivedithaRam:
