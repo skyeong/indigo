@@ -1,14 +1,14 @@
 # main text of home
 name: Sunghyon Kyeong
-bio: 'Physics, Teaching, Engineering.'
+bio: Neuroscience, Complex Network, Topological Data Analysis.
 
 # twitter summary info
-description: A blog about Physics and teaching science
+description: A blog about Neuroscience and Datascience
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: 'assets/images/profile.jpg'
+picture: 'assets/images/skyeong_crop.png'
 
 url: https://skyeong.github.io
 # your url: http://USERNAME.github.io
@@ -25,25 +25,25 @@ highlighter: rouge
 #disqus: artiannaswamy
 
 # if you don't have any of social below, comment the line
-# facebook: myfacebook
-twitter: NivedithaRam
+facebook: sunghyon.kyeong
+twitter: paul_kyeong
 # google: mygoogle
 # instagram: myinstagram
 #pinterest: annasw
 #linkedin: artiannaswamy
 # youtube: myyoutube
 # spotify: myspotify
-github: NivedithaRam
+github: skyeong
 # medium: medium
 email: skyeong@yuhs.ac
 
 authors:
-    NivedithaRam:
-        name: Niveditha Ram
-        bio: Physics, Reading, Teaching.
+    skyrong:
+        name: Sunghyon Kyeong
+        bio: Neuroscience, Complex Network, Topological Data Analysis.
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: NivedithaRam
+        picture: assets/images/skyeong_crop.png
+        twitter: paul_kyeong
 
 
 # do you want a larger site? change the option below
