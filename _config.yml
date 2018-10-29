@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Sunghyon Kyeong, PhD
+bio: Sunghyon Kyeong, PhD is a Researcher at the Institute of Behavioral Science in Medicine of the Yonsei University College of Medicine, Seoul, Republic of Korea. Prior to his current appointments, he was a researcher at National Institute for Mathematical Sciences and MR clinical scientist at Philips Korea. His research interests include the effects of meditation on neural network, translational medicine, computational psychiatry, controllability in brain network, and data-based phenotyping of medical diseases. 
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,15 +8,15 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/skyeong_crop.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/0B-DFPpgutmKSTzlaM0U3VVZTQW8/edit?usp=sharing
 
-url: https://koppl.in/indigo
+url: https://github.com/skyeong/indigo
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -30,19 +30,19 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
+  shortname: skyeong # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: sunghyon.kyeong
+twitter: paul_kyeong
 # google: mygoogle
-# instagram: myinstagram
+# instagram: shkyeong
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: sunghyon-kyeong-83675355
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: skyeong
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,7 +51,7 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: skyeong@yuhs.ac
 
 authors:
     johndoe:
