@@ -14,7 +14,7 @@ Based on the [Indigo Minimalist Jekyll Template](https://github.com/sergiokoppli
     <b><a href="README.md#license">License</a></b>
 </p>
 
-![Screenshot](https://raw.githubusercontent.com/aannasw/aannasw.github.io/master/screen-shot.png)
+![Screenshot](https://github.com/skyeong/skyeong.github.io/master/screen-shot.png)
 
 ---
 
@@ -24,7 +24,6 @@ Based on the [Indigo Minimalist Jekyll Template](https://github.com/sergiokoppli
 - Blog
 - Projects
 - About
-- Responsive layout with option for narrow/wide
 - Tagging
 - Animated header
 - Social links
