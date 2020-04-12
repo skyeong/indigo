@@ -1,9 +1,9 @@
 # main text of home
-name: Sunghyon Kyeong
-bio: Neuroscience, Complex Network, Topological Data Analysis.
+name: Sunghyon Kyeong, PhD
+bio: Data Scientist
 
 # twitter summary info
-description: A blog about Neuroscience and Datascience
+description: A blog about Datascience
 
 # if it's an external image, update below for true
 # better with square images
@@ -30,17 +30,17 @@ twitter: paul_kyeong
 # google: mygoogle
 # instagram: myinstagram
 #pinterest: annasw
-#linkedin: artiannaswamy
+linkedin: sunghyon-kyeong-83675355
 # youtube: myyoutube
 # spotify: myspotify
 github: skyeong
 # medium: medium
-email: skyeong@yuhs.ac
+email: sunghyon.kyeong@gmail.com
 
 authors:
     skyrong:
-        name: Sunghyon Kyeong
-        bio: Neuroscience, Complex Network, Topological Data Analysis.
+        name: Sunghyon Kyeong, PhD
+        bio: Data Scientist
         external-image: false
         picture: assets/images/skyeong_crop.jpg
         twitter: paul_kyeong
