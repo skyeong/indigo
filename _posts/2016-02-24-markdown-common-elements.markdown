@@ -6,7 +6,6 @@ date: 2016-02-24 22:44
 # - markdown
 # - elements
 blog: true
-draft: false
 author: artiannaswamy
 summary: "A list of the most common markdown elements and how they look"
 permalink: markdown-common-elements
