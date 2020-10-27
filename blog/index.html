@@ -4,9 +4,9 @@ title: blog
 ---
 
 
+<h1 class="point"> <span style="font-weight:bold;">Published Articles</span> </h1>
 
 <section class="list">
-	<h1 class="larger"> <span style="font-weight:bold;">Published Articles</span> </h1>
 
 	{% if site.posts.size == 0 %}
 		<p class="text-center">Nothing published yet!</p>
@@ -25,7 +25,7 @@ title: blog
 	{% endif %}
 </section>
 
-
+<br>
 <span style="font-weight:bold;">Category</span>
 {% assign pages_list = site.pages %}
 {% for node in pages_list %}
