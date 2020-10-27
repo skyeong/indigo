@@ -17,7 +17,7 @@ At Kakaobank, I am currently involved in the various datascience projects such a
 ### Work Experience
 - Jul 2019 ~ Current, Data Scientist at Kakaobank Corp, Kyeonggi-do, Korea  
 - Sep 2018 ~ Jun 2019, Researcher Professor at Yonsei University College of Medicine, Seoul, Korea  
-- Sep 2017 ~ Aug 2017, Clinical Scientist at Philips Korea, Seoul, Korea  
+- Sep 2017 ~ Aug 2017, Clinical Scientist at Philips, Seoul, Korea  
 - Mar 2016 ~ Aug 2017, Postdoctoral position at Yonsei University College of Medicine, Seoul, Korea  
 - Oct 2011 ~ Aug 2014, Technical Research Personnel at National Institute for Mathematical Science, Daejeon, Korea  
 
