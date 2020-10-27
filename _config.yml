@@ -58,9 +58,9 @@ width: large
 # if you don't need projects, comment the *projects* configs below
 # projects: true
 about: true
-quant: true
+# quant: true
 blog: true
-# teaching: false
+tags: true
 # if you don't need about or blog, comment them out below
 
 # do you want to show the "read time" of the posts?
