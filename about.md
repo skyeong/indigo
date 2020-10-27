@@ -4,10 +4,12 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-I am a Data Scientist at the Kakaobank Corp, Republic of Korea. Prior to my current appointments, I was a research professor at [Yonsei University College of Medicine](http://www.yonsei.ac.kr), research scientist at [National Institute for Mathematical Sciences](http://www.nims.re.kr), and MR clinical scientist at [Philips Korea](https://www.philips.co.kr/). My research interests include the effects of meditation on neural network, translational medicine, computational psychiatry, controllability in brain network, and data-based phenotyping of medical diseases. 
+I am a Data Scientist at the Kakaobank Corp, Republic of Korea. Prior to my current appointments, I was a research professor at [Yonsei University College of Medicine](http://www.yonsei.ac.kr), research scientist at [National Institute for Mathematical Sciences](http://www.nims.re.kr), and Clinical scientist at [Philips Korea](https://www.philips.co.kr/). My research interests include the effects of meditation on neural network, translational medicine, computational psychiatry, controllability in brain network, and data-based phenotyping of medical diseases. 
 
-Apart from research, I am very passionate about teaching. Over the last couple of years, I have taught lab courses in Neuroimaging data analysis for those who are interested. More details of my teaching journey can be found [here](https://github.com/skyeong/Lectures_on_Neuroimaging).
+At Kakaobank, I am currently involved in the various datascience projects such as fraud detection, anonaly detection, recommandation systems. I am also involved in a role named as "data production" which is a kind of data planning job. 
 
-More information on my academic journey can be found in my [CV](https://drive.google.com/file/d/0B-DFPpgutmKSTzlaM0U3VVZTQW8/edit?usp=sharing).
+Apart from professional role in data science, I am very passionate about teaching and consulting.
 
 Apart from all this, I love theatre, meeting new people, travelling and reading. Feel free to write to me with any questions or opportunities in teaching or theatre that you think will interest me. 
+
+More information on my academic background can be found in my [CV](https://drive.google.com/file/d/0B-DFPpgutmKSTzlaM0U3VVZTQW8/edit?usp=sharing).
