@@ -6,7 +6,7 @@ date: 2018-09-11 11:00
 # - markdown
 # - elements
 blog: true
-author: Sunghyon Kyeong
+author: skyeong
 summary: "고차원 데이터의 차원 축소와 시각화 방법 (PCA vs. t-SNE)"
 permalink: pca-tsne
 
