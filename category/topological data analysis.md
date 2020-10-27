@@ -1,1 +1,7 @@
-topological data analysis.md
+---
+
+layout: category
+
+title: topological data analysis
+
+---
