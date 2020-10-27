@@ -7,6 +7,8 @@ date: 2016-02-24 22:44
 # - elements
 blog: true
 author: skyeong
+categories: [topological data analysis]
+tags: [topological data analysis]
 summary: "Topological Data Analysis (토폴로지 데이터 분석 방법) "
 permalink: topological-data-analysis-concept
 
