@@ -6,7 +6,7 @@ date: 2016-02-24 22:44
 # - markdown
 # - elements
 blog: true
-author: Sunghyon Kyeong
+author: skyeong
 summary: "Topological Data Analysis (토폴로지 데이터 분석 방법) "
 permalink: topological-data-analysis-concept
 
