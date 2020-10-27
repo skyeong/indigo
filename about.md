@@ -8,7 +8,7 @@ I am a Data Scientist at the Kakaobank Corp, Republic of Korea. Prior to my curr
 
 At Kakaobank, I am currently involved in the various datascience projects such as fraud detection, anonaly detection, recommandation systems. I am also involved in a role named as "data production" which is a kind of data planning job. Apart from professional role in data science, I am very passionate about teaching and consulting. 
 
-# Skills
+## Skills
 • Anomaly detection   
 • Fraud detection  
 • Graph theory & machine learning  
