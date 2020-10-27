@@ -85,20 +85,6 @@ sass:
     sass_dir: _sass
     style: :compressed
 
-navigation:
-- title: Home
-   url: /
- - title: Data News
-   url: /blog
- - title: Tags
-   url: /tags
- - title: About
-   url: /about
- - title: Data News
-   url: /blog
- - title: Tags
-   url: /tags
-
    
 gems:
   - jemoji
