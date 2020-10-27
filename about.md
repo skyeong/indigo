@@ -28,4 +28,4 @@ At Kakaobank, I am currently involved in the various datascience projects such a
 - Graph theory & machine learning  
 - Topological data analysis to detect abnormal subgroups   
 
-More information on my academic background can be found in my [CV](https://drive.google.com/file/d/0B-DFPpgutmKSTzlaM0U3VVZTQW8/edit?usp=sharing).
+More information on my academic background can be found in my CV(><href = "https://drive.google.com/file/d/0B-DFPpgutmKSTzlaM0U3VVZTQW8/edit?usp=sharing" target="_blank">click</a>).
