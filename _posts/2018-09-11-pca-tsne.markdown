@@ -71,7 +71,7 @@ plt.show()
 
 
 <p align="center">
-  <img src="/assets/images/posts/data_analysis/mnist_sample.png.png" alt="Sample data"/>
+  <img src="/assets/images/posts/data_analysis/mnist_sample.png" alt="Sample data"/>
 </p>
 
 
@@ -141,7 +141,7 @@ df_tsne = df.loc[rndperm[:n_sne],:].copy() df_tsne['x-tsne'] = tsne_results[:,0]
 
 시각화 결과를 보면 (PCA에 비해) 각 숫자들을 아주 잘 구분해 주는 것을 알 수 있다. 만약 분석에 사용되는 데이터 샘플의 숫자를 줄이지 않고, t-SNE를 이용하고 싶다면, PCA를 이용해서 원본 데이터를 50차원 정도로 줄인 후에 t-SNE를 적용하는 방법을 추천한다.
 
-이 글은 Luuk Derksen의 원글을 듬성듬성 번역 했음을 밝히며, 번역자 맘대로 해석된 부분이 많이 있습니다. 원글은 링크(<a href="https://medium.com/@luckylwk/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b" target="_blank">>>click</a>)에서 볼 수 있습니다. 
+이 글은 Luuk Derksen의 원글을 듬성듬성 번역 했음을 밝히며, 번역자 맘대로 해석된 부분이 많이 있습니다. 원글은 링크(>><a href="https://medium.com/@luckylwk/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b" target="_blank">click</a>)에서 볼 수 있습니다. 
 
 
 
