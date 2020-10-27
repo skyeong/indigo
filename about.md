@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-I am a data scientist at the Kakaobank Corp, Republic of Korea. Prior to my current appointments, I was a research professor at [Yonsei University College of Medicine](http://www.yonsei.ac.kr), research scientist at [National Institute for Mathematical Sciences](http://www.nims.re.kr), and clinical scientist at [Philips Korea](https://www.philips.co.kr/). I was interested in network-based understanding of the human behavior and underlying mechanism of the human decision making.
+I am a data scientist at the Kakaobank Corp, Republic of Korea. Prior to my current appointments, I was a research professor at Yonsei University College of Medicine(><a href="http://www.yonsei.ac.kr)" target="_blank">click</a>), research scientist at National Institute for Mathematical Sciences(><a href="http://www.nims.re.kr" target="_blank">click</a>), and clinical scientist at Philips Korea(><a href="https://www.philips.co.kr/" target="_blank">click</a>). Through the careers, I have broadened my knowledge in the fields of analyzing the human behavior during decision making, modeling the deep-learning architecture, and understanding the complex network.
 
 At Kakaobank, I am currently involved in the various datascience projects such as fraud detection, anonaly detection, recommandation systems. I am also involved in a role named as "data production" which is a kind of data planning job. Apart from professional role in data science, I am very passionate about teaching and consulting. 
 
