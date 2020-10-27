@@ -1,1 +1,7 @@
-data science.md
+---
+
+layout: category
+
+title: data science
+
+---
