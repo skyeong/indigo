@@ -1,0 +1,17 @@
+---
+title: "요기에 제목 작성"
+layout: post
+date: 2016-02-24 22:44
+# tag:
+# - markdown
+# - elements
+blog: true
+author: skyeong
+summary: "여기에 요약문장을 작성"
+permalink: markdown-common-elements
+
+---
+
+## Summary:
+
+여기에 내용을 작성 
