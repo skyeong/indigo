@@ -17,6 +17,4 @@ permalink: topological-data-analysis-concept
 
 
 
-출처: https://skyeong.net/154?category=592659 [금융 데이터를 분석하는 뇌과학자]
-
-<img class="right-image" src="assets/images/posts/TDA/tda_step1.png" alt="Alt Text">
+<img src="https://github.com/skyeong/skyeong.github.io/blob/master/assets/images/posts/TDA/tda_step1.png">
