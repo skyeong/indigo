@@ -7,6 +7,7 @@ date: 2018-09-11 11:00
 # - elements
 blog: true
 categories: [data science]
+tags: [data science]
 author: skyeong
 summary: "고차원 데이터의 차원 축소와 시각화 방법 (PCA vs. t-SNE)"
 permalink: pca-tsne
