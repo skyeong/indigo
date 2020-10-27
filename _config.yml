@@ -1,6 +1,6 @@
 # main text of home
 name: Sunghyon Kyeong
-bio: Data science and products
+bio: Data science and data products
 
 # twitter summary info
 description: A blog about Datascience
@@ -40,7 +40,7 @@ email: sunghyon.kyeong@gmail.com
 authors:
     skyeong:
         name: Sunghyon Kyeong, PhD
-        bio: Data Scientist
+        bio: Data Scientist, Data Planning, and Neuroscientist
         external-image: false
         picture: assets/images/skyeong_crop.jpg
         twitter: paul_kyeong
