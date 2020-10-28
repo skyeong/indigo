@@ -4,8 +4,8 @@ layout: post
 date: 2020-10-28 22:08
 blog: true
 author: skyeong
-categories: [AI]
-tags: [AI]
+categories: [AI, machine learning]
+tags: [AI, machine learning]
 summary: "영어를 매개로 하지 않고 100개 언어를 직접 번역하는 AI 모델"
 ---
 
