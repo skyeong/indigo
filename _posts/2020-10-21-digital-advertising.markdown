@@ -1,7 +1,7 @@
 ---
 title: "디지털 광고에서 데이터 과학자의 역할"
 layout: post
-date: 2020-10-28 22:44
+date: 2020-10-21 22:44
 blog: true
 author: skyeong
 categories: [data science, advertisement]
