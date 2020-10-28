@@ -1,12 +1,12 @@
 ---
-title: "영어에 의존하지 않고 100개 언어를 번역하는 AI 모델"
+title: "영어를 매개로 하지 않고 100개 언어를 직접 번역하는 AI 모델"
 layout: post
 date: 2020-10-28 22:08
 blog: true
 author: skyeong
 categories: [AI]
 tags: [AI]
-summary: "영어에 의존하지 않고 100개 언어를 번역하는 AI 모델"
+summary: "영어를 매개로 하지 않고 100개 언어를 직접 번역하는 AI 모델"
 ---
 
 ![image](https://about.fb.com/wp-content/uploads/2024/10/NRP-Machine_Translation_Milestone_banner.jpg?w=1920)
