@@ -19,10 +19,14 @@ summary: "영어를 매개로 하지 않고 100개 언어를 직접 번역하는
 
 - 아래 내용은 100 개 언어에 대한 보다 다양한 MMT 학습 데이터 세트 및 모델을 구축 한 방법에 대한 세부 정보를 설명입니다. 또한 다른 연구자들이 다국어 모델을 재현하고 발전시킬 수 있도록 모델, [교육 및 평가 설정](https://github.com/pytorch/fairseq/tree/master/examples/)을 출시합니다.
 
+최근 Facebook은 적은 자원을 사용하는 기계 번역을 개발한 덕분에 뉴스 피드에서 매일 평균 200 억 건의 번역을 지원하고 있습니다.
+
+일반적인 MT 시스템은 각 언어 및 각 작업에 대해 별도의 AI 모델을 구축하는 방법을 채용하고 있으며,이러한 접근 방식은 사람들이 수십억 개의 게시물에 160 개 이상의 언어로 콘텐츠를 게시하는 Facebook에는 효과적으로  못한 방법입니다. 고급 다국어 시스템은 한 번에 여러 언어를 처리 할 수 있지만, 영어 데이터에 의존하여 출발어와 도착어 간의 오류를 최소화 하는 방법으로 정확성이 떨어집니다. 커뮤니티에 더 나은 서비스를 제공하기 위해 모든 언어를 번역 할 수있는 하나의 다국어 기계 번역 (MMT) 모델이 필요합니다. 그 중 거의 3 분의 2는 영어 이외의 언어를 사용합니다.
+
+Facebook에서 수년간의 MT 연구의 정점에서, 영어 중심 데이터에만 의존하지 않고 모든 방향으로 100x100 언어를 직접 번역 할 수있는 최초의 단일 대규모 MMT 모델을 발표하게되어 기쁩니다. 우리의 단일 다국어 모델은 기존의 이중 언어 모델만큼의 성능을 발휘하며 영어 중심의 다국어 모델에 비해 10 BLEU 포인트의 성능 향상을 달성했습니다.
 
 
-
-[INFO](https://about.fb.com/news/2020/10/first-multilingual-machine-translation-model/)
+INFO: <a href="https://about.fb.com/news/2020/10/first-multilingual-machine-translation-model/" target="_blank">https://about.fb.com/news/2020/10/first-multilingual-machine-translation-model/</a>)
 
 
 
