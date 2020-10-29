@@ -10,9 +10,10 @@ categories: [data science]
 tags: [data science]
 author: skyeong
 summary: "고차원 데이터의 차원 축소와 시각화 방법 (PCA vs. t-SNE)"
-permalink: pca-tsne
-
 ---
+
+## 고차원 데이터의 차원 축소와 시각화 방법 (PCA vs. t-SNE)
+
 >데이터분석과 관련하여 가장 중요한 것은 데이터가 어떻게 생겼는지 탐색하는 과정입니다. 
 
 
