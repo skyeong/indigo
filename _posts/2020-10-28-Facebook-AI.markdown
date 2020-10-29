@@ -9,6 +9,8 @@ tags: [AI, machine learning]
 summary: "영어를 매개로 하지 않고 100개 언어를 직접 번역하는 AI 모델"
 ---
 
+## 영어를 매개로 하지 않고 100개 언어를 직접 번역하는 AI 모델
+
 ![image](https://about.fb.com/wp-content/uploads/2024/10/NRP-Machine_Translation_Milestone_banner.jpg?w=1920)
 
 - Facebook AI가 영어 데이터에 의존하지 않고 100 개 언어 쌍을 번역 할 수 있는 최초의 다국어 기계 번역 (MMT) 모델 인 M2M-100을 소개했습니다. [여기](https://github.com/pytorch/fairseq/tree/master/examples/m2m_100)에서 오픈 소스 코드를 확인할 수 있습니다.
