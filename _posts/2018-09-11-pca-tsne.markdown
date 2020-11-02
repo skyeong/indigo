@@ -5,7 +5,7 @@ date: 2018-09-11 11:00
 # tag:
 # - markdown
 # - elements
-blog: true
+tutorial: true
 categories: [data science]
 tags: [data science]
 author: skyeong
