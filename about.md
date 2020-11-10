@@ -28,4 +28,13 @@ At Kakaobank, I am currently involved in the various datascience projects such a
 - Graph theory & machine learning  
 - Topological data analysis to detect abnormal subgroups   
 
+### Media Exposures 
+- 뇌 영상으로 진단하는 ADHD, <의학채널 비온뒤>(2016.04.05) (>[click](http://aftertherain.kr/%EB%87%8C-%EC%98%81%EC%83%81%EC%9C%BC%EB%A1%9C-%EC%A7%84%EB%8B%A8%ED%95%98%EB%8A%94-adhd-3/))
+- 애매한 과잉행동장애 ADHD, 수학 모델로 진단, <YTN science>(2016.04.07) (>[click](http://science.ytn.co.kr/program/program_view.php?s_mcd=0082&s_hcd=&key=201604070140204982))
+- 감사하는 마음이 '뇌'도 '삶'도 바꾼다... 의학적으로 증명, <SBS 8시 뉴스>(2018.02.03) (>[click](https://news.sbs.co.kr/news/endPage.do?news_id=N1004605944&plink=LINK&cooper=SBSNEWSVIEWER))
+    
+### 단편영화 조연 <난시, 2001>
+- You Tube Link: http://youtu.be/pR3KU_9RZFo
+- 제가 등장하는 순간의 시간들 (분:초) - 2:28, 3:34, 4:29, 4:40, 8:59, 9:14   
+
 More details can be found in my CV(><a href = "https://drive.google.com/file/d/0B-DFPpgutmKSTzlaM0U3VVZTQW8/edit?usp=sharing" target="_blank">click</a>).
