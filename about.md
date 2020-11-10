@@ -9,8 +9,8 @@ I am a data scientist at the Kakaobank Corp, Republic of Korea. Prior to my curr
 At Kakaobank, I am currently involved in the various datascience projects such as fraud detection, anonaly detection, recommandation systems. I am also involved in a role named as "data production" which is a kind of data planning job. Apart from professional role in data science, I am very passionate about teaching and consulting. 
 
 ### Education
-- Feb 2016, PhD in Neuroscience, Yonsei University College of Medicine, Seoul, Korea  
-- Aug 2009, MS in Physics, Yonsei University College of Science, Seoul, Korea  
+- Feb 2016, PhD in Neuroscience, Yonsei University College of Medicine, Seoul, Korea  [thesis](https://www.dropbox.com/s/88t0mrs8vhl1tvg/%EB%B0%95%EC%82%AC%EB%85%BC%EB%AC%B8_%EA%B2%BD%EC%84%B1%ED%98%84.pdf?dl=0)
+- Aug 2009, MS in Physics, Yonsei University College of Science, Seoul, Korea  [thesis](https://www.dropbox.com/s/9k0pb9shs84v3tj/%EC%84%9D%EC%82%AC%EB%85%BC%EB%AC%B8_%EA%B2%BD%EC%84%B1%ED%98%84.pdf?dl=0)
 - Feb 2007, BS in Physics, Yonsei University College of Science, Seoul, Korea  
 
 
