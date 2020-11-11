@@ -87,3 +87,12 @@ https://github.com/GuansongPang/deviation-network
 
 Few-shot 이상탐지에서 극히 적은 labeled anomaly 데이터는 서로 다른 형태의 anomaly를 나타낼 수 있으므로 완전히 다른 manifold/class 특성을 보일 수 있습니다. 이것은 제한된 예시가 클래스에 따라 다르며 동일한 manifold/class 구조를 공유한다고 가정하는 일반적인 Few-shot(주로 분류 작업)과 근본적으로 다릅니다. 따라서 Few-shot 이상탐지에서 일부 새로운 유형의 이상 클래스에서 발생하는 알려지지 않은 이상을 처리하려면주의를 기울여야합니다. 이 문제를 해결하기 위해 두 가지 방법[5, 6,7]에 대한 연구결과가 있습니다.
 
+## References
+[1] Pang, G., Cao, L., Chen, L., & Liu, H. (2018, July). Learning representations of ultrahigh-dimensional data for random distance-based outlier detection. In Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (pp. 2041–2050).
+[2] Pang, G., Ting, K. M., & Albrecht, D. (2015, November). LeSiNN: Detecting anomalies by identifying least similar nearest neighbours. In 2015 IEEE international conference on data mining workshop (ICDMW) (pp. 623–630). IEEE.
+[3] Sugiyama, M., & Borgwardt, K. (2013). Rapid distance-based outlier detection via sampling. In Advances in Neural Information Processing Systems (pp. 467–475).
+[4] Pang, G., Shen, C., & van den Hengel, A. (2019, July). Deep anomaly detection with deviation networks. In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (pp. 353–362).
+[5] Pang, G., Shen, C., Jin, H., & Hengel, A. V. D. (2019). Deep Weakly-supervised Anomaly Detection. arXiv preprint:1910.13601.
+[6] Pang, G., Hengel, A. V. D., Shen, C., & Cao, L. (2020). Deep Reinforcement Learning for Unknown Anomaly Detection. arXiv preprint:2009.06847.
+[7] Pang, G., Shen, C., Cao, L., & Hengel, A. V. D. (2020). Deep learning for anomaly detection: A review. arXiv preprint:2007.02500.
+
