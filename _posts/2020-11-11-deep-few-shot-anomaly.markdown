@@ -37,11 +37,53 @@ REPEN은 임의 데이터 하위 집합 $x_i,…, x_{i + n-1}$에서 정상 인�
 레이블이 지정된 anomaly 데이터는 매우 제한적이지만 REPEN은 비지도학습 버전과 비교할 때 매우 뛰어난 정확도를 달성 할 수 있습니다. AUC 성능은 labeled anomalies의 항목 수가 1에서 80으로 증가함에 따라 빠르게 증가합니다.
 
 
-
 <p align="center">
-  <img src="/assets/images/posts/1_2ybgBHythwQXdSPrF2_caw" alt="Sample data"/>
+  <img src="/assets/images/posts/1_2ybgBHythwQXdSPrF2_caw.png" alt="Sample data"/>
 </p>
 
 
+REPEN의 소스 코드는 아래에서 확인 가능합니다.
+https://github.com/GuansongPang/deep-outlier-detection
 
+## Deep Deviation Network : End-to-End 이상 탐지 최적화 접근 방식
+
+거리 기반 이상 측정에 기반한 REPEN과 달리 편차 네트워크(DevNet [4])는 한정된 정보의 anomaly 데이터를 활용하여 end-to-end 이상 점수를 학습하도록 설계되었습니다. 주요 차이점은 아래 그림에서 확인할 수 있습니다. 전자는 feature representation을 최적화하고 후자는 이상 점수를 최적화합니다.
+
+<p align="center">
+  <img src="/assets/images/posts/1_v3cU6HSlbDqQVMD5lNh0ug.png" alt="Representation learning-focused approach vs. end-to-end anomaly detection approach"/>
+</p>
+
+
+구체적으로, 아래 프레임 워크에 표시된대로 학습 데이터 인스턴스 세트가 주어지면 DevNet은 먼저 신경 이상 점수 학습자를 사용하여 이상 점수를 할당 한 후에, 다음을 기반으로 일부 일반 데이터 인스턴스의 이상 점수 평균을 정의합니다. 후속 변칙 점수 학습을 안내하기 위한 참조 점수 역할을 할 사전 확률. 마지막으로, DevNet은 편차 손실이라고하는 손실 함수를 정의하여 상단 꼬리에 있는 정상 데이터 개체의 이상 항목 점수와 통계적으로 유의 한 편차를 적용합니다. DevNet 구현에서 Gaussian prior는 Z-Score 기반 편차 손실을 사용하여 이상 점수를 직접 최적화 하는데 사용됩니다.
+
+<p align="center">
+  <img src="/assets/images/posts/1_uyk6byvUPgGFrsJWW1cl2g.png" alt=""/>
+</p> 
+
+
+DevNet의 손실 함수는 다음과 같습니다.
+<p align="center">
+  <img src="/assets/images/posts/1_-HP47f24ca8_4rUXfn2new.png" alt=""/>
+</p> 
+
+여기서 dev는 Z-Score 기반 편차 함수이며 다음과 같이 정의됩니다.
+<p align="center">
+  <img src="/assets/images/posts/1_-1_oU2d191kPiNoUwHRb3zp4g.png" alt=""/>
+</p> 
+
+여기서 $\phi$는 입력 $x$를 스칼라 출력으로 투영하는 신경망 기반 매핑 함수이며 $\mu$ 및 $\sigma$는 Gaussian prior에서 가져옵니다. 이러한 손실은 DevNet이 정상 인스턴스의 이상 점수를 가능한 $\mu$에 가깝게 하면서 $\mu$와 anomalies의 anomaly scores 사이에 최소 a의 편차를 적용하게 합니다.
+
+DevNet을 다양한 실제 데이터 세트를 통해서 평가해본 결과는 다음과 같습니다. DevNet은 REPEN, deep one-class classifier, few-shot classifier 및 unsupervised method iForest를 포함한 여러 최첨단 경쟁 방법에 비해 향상된 성능을 보여줍니다. 더욱 자세한 실험 결과는 [4]에서 찾을 수 있습니다.
+
+<p align="center">
+  <img src="/assets/images/posts/1_-1_oG7DOCB5mcIAy_ukFtiPag.png" alt=""/>
+</p>
+
+DevNet의 소스 코드는 아래에서 확인 가능합니다.
+https://github.com/GuansongPang/deviation-network
+
+
+## Few-shot 이상탐지 vs. Few-shot 분류
+
+Few-shot 이상탐지에서 극히 적은 labeled anomaly 데이터는 서로 다른 형태의 anomaly를 나타낼 수 있으므로 완전히 다른 manifold/class 특성을 보일 수 있습니다. 이것은 제한된 예시가 클래스에 따라 다르며 동일한 manifold/class 구조를 공유한다고 가정하는 일반적인 Few-shot(주로 분류 작업)과 근본적으로 다릅니다. 따라서 Few-shot 이상탐지에서 일부 새로운 유형의 이상 클래스에서 발생하는 알려지지 않은 이상을 처리하려면주의를 기울여야합니다. 이 문제를 해결하기 위해 두 가지 방법[5, 6,7]에 대한 연구결과가 있습니다.
 
