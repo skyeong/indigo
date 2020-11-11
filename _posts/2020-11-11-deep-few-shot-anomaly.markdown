@@ -96,3 +96,6 @@ Few-shot 이상탐지에서 극히 적은 labeled anomaly 데이터는 서로 �
 [6] Pang, G., Hengel, A. V. D., Shen, C., & Cao, L. (2020). Deep Reinforcement Learning for Unknown Anomaly Detection. arXiv preprint:2009.06847.
 [7] Pang, G., Shen, C., Cao, L., & Hengel, A. V. D. (2020). Deep learning for anomaly detection: A review. arXiv preprint:2007.02500.
 
+## 원문 보기
+>> [click](https://towardsdatascience.com/deep-few-shot-anomaly-detection-b33f130d1f80)
+
