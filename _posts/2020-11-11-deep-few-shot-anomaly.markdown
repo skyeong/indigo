@@ -43,7 +43,7 @@ REPEN은 임의 데이터 하위 집합 $x_i,…, x_{i + n-1}$에서 정상 인�
 
 
 REPEN의 소스 코드는 아래에서 확인 가능합니다.
-https://github.com/GuansongPang/deep-outlier-detection
+[https://github.com/GuansongPang/deep-outlier-detection](https://github.com/GuansongPang/deep-outlier-detection)
 
 ## Deep Deviation Network : End-to-End 이상 탐지 최적화 접근 방식
 
@@ -68,7 +68,7 @@ DevNet의 손실 함수는 다음과 같습니다.
 
 여기서 dev는 Z-Score 기반 편차 함수이며 다음과 같이 정의됩니다.
 <p align="center">
-  <img src="/assets/images/posts/1_-1_oU2d191kPiNoUwHRb3zp4g.png" alt=""/>
+  <img src="/assets/images/posts/1_oU2d191kPiNoUwHRb3zp4g.png" alt=""/>
 </p> 
 
 여기서 $\phi$는 입력 $x$를 스칼라 출력으로 투영하는 신경망 기반 매핑 함수이며 $\mu$ 및 $\sigma$는 Gaussian prior에서 가져옵니다. 이러한 손실은 DevNet이 정상 인스턴스의 이상 점수를 가능한 $\mu$에 가깝게 하면서 $\mu$와 anomalies의 anomaly scores 사이에 최소 a의 편차를 적용하게 합니다.
@@ -80,7 +80,7 @@ DevNet을 다양한 실제 데이터 세트를 통해서 평가해본 결과는 
 </p>
 
 DevNet의 소스 코드는 아래에서 확인 가능합니다.
-https://github.com/GuansongPang/deviation-network
+[https://github.com/GuansongPang/deviation-network](https://github.com/GuansongPang/deviation-network)
 
 
 ## Few-shot 이상탐지 vs. Few-shot 분류
